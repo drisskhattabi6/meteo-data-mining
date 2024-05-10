@@ -37,6 +37,9 @@ This project focuses on leveraging data mining techniques to analyze meteorologi
  This is the Correlation Matrix : 
 ![correlation matrix](ref/img2.png)
 
+ This is the visualization of the data (Pair-Plot): 
+![data visualization - pair plot](ref/img3.png)
+
 ## **Methodology**
 1. **Data Preprocessing**: The raw meteo data is preprocessed to handle missing values, outliers, and any noise present in the dataset. This step ensures the data is in a suitable format for analysis.
 
