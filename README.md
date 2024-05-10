@@ -24,7 +24,7 @@ This project focuses on leveraging data mining techniques to analyze meteorologi
 - **2 - SVM for Meteo12**: Jupyter notebooks for appling SVM Model.
 - **3 - KNN for Meteo12**: Jupyter notebooks for appling KNN Model.
 - **4 - CART for Meteo12**: Jupyter notebooks for appling CART Model.
-- **Final Report**: .
+- **Final Report**: Jupyter notebooks contains the final results and decisions.
 
 --- 
 
