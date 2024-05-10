@@ -34,6 +34,9 @@ This project focuses on leveraging data mining techniques to analyze meteorologi
 16. **wd**: Wind direction, indicating the direction the wind is blowing from. It is usually indicated in cardinal directions (e.g., N for North, S for South, etc.) or in degrees (e.g., 0° for North, 90° for East, etc.).
 17. **station**: The name or identifier of the weather station where the data was recorded. This column specifies the location or source of weather observations.
 
+ This is the Correlation Matrix : 
+![correlation matrix](ref/img2.png)
+
 ## **Methodology**
 1. **Data Preprocessing**: The raw meteo data is preprocessed to handle missing values, outliers, and any noise present in the dataset. This step ensures the data is in a suitable format for analysis.
 
